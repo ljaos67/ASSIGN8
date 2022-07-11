@@ -1,7 +1,7 @@
 <?php
 include("ASSIGN8LIB.php");
-$username = 'z1911688';
-$password = '1998Dec20';
+$username = 'HIDDEN';
+$password = 'HIDDEN';
 echo "<html><head><title>ASSIGNMENT8</title></head>";
 echo "<body>";
 echo " <form action=\"http://students.cs.niu.edu/~z1911688/ASSIGN8.php\" method=\"POST\">";
